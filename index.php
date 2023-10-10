@@ -122,25 +122,7 @@ At Bangabandhu Sheikh Mujibur Rahman University, the CSE Department aims to crea
 					</div>
 
 
-					<!--Notice2-->
-					<div class="feature">
-						
-						<div class="feature-icon"><p><b>
-							<!--Date-->
-							13 Aug 2023
-						</b></p></div>
-						<div class="feature-content">
-							<h4><a href=
-								"assets/Files/routine.pdf"
-								>
-								Updated Class Routine, 2nd Semester
-							</a></h4>
-							<p>
-								<!--Date-->
-								13 Aug 2023
-							</p><br>
-						</div>
-					</div>
+					
 
 
 
@@ -291,7 +273,7 @@ At Bangabandhu Sheikh Mujibur Rahman University, the CSE Department aims to crea
 	</div>
 	<!-- /preloader -->
 
-
+	<h1>Dev Test</h1>
 
 	<!--Footer-->
 	<footer>
